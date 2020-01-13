@@ -1,4 +1,4 @@
-#TwitterCrawler
+# TwitterCrawler
 TwitterCrawler is a Java API for searching through Twitter using the Twitter API twitter4j.
 ## Installation
 Add the compiled Java project to your project to use the API.
